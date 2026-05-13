@@ -17,7 +17,7 @@ col1, col2, col3 = st.columns([1,2,1])
 
 with col2:
 st.markdown(f&quot;&quot;&quot;
-&lt;div style=&quot;text-align:center;margin-bottom:50px;&quot;&gt;
+&lt;"div style=&quot;text-align:center;margin-bottom:50px;&quot;&gt";
 &lt;a href=&quot;https://www.instagram.com//&quot; target=&quot;_blank&quot;&gt;
 &lt;img src=&quot;data:Instagram_icon.png;base64,{img_base64}&quot;
 width=&quot;320&quot;
