@@ -16,8 +16,8 @@ with col1:
  
 with col2:
   st.header("Sobre Mim:")
-  st.write("Sou aluna do curso técnico integrado em 
-  informática - campus Itabaiana")
+  st.write(" Sou aluna do curso técnico integrado em 
+  informática - campus Itabaiana ")
 
 st.write("")
  
