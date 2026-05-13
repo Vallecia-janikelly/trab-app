@@ -28,5 +28,3 @@ col1, col2, col3 = st.columns([1, 2, 3])
 
 with col2:
   st.image("whats.jpg", width=100, link="https://wa.me/+5583987061523")
-
---
